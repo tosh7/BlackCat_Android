@@ -96,3 +96,9 @@ gradle-wrapper.jar
 # KMP
 .kotlin/
 kotlin-js-store/
+# Android SDK (installed locally)
+build-tools/
+platform-tools/
+platforms/
+licenses/
+cmdline-tools/
